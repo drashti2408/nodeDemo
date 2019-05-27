@@ -1,0 +1,15 @@
+{
+  "name": "drashti_demo",
+  "version": "1.0.0",
+  "description": "My first node project...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Drashti",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^1.19.1"
+  }
+}
